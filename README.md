@@ -8,14 +8,11 @@ In this project, the program allows users to interact with the Recipe Organizer 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
+Visual Studio Code
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+C++
 
 # Useful Websites
-
-{Make a list of websites that you found helpful in this project}
 
 - [W3School([http://url.link.goes.here](https://www.w3schools.com/cpp/))
 - [Web Site Name]([http://url.link.goes.here](https://cplusplus.com/reference/stl/))
